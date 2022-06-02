@@ -1,0 +1,10 @@
+{
+  "name": "borodin-javascript",
+  "description": "Test tasks",
+  "version": "0.0.1",
+  "scripts": {
+    "task1": "node task1.js",
+    "task2": "node task2.js",
+    "task3": "node task3.js"
+  }
+}
